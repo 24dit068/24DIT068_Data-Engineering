@@ -1,27 +1,21 @@
-# Enterprise Data Engineering Lifecycle
+# Data Engineering Laboratory
 
-## Objective
-Study and document the end-to-end data engineering lifecycle for an enterprise e-commerce platform.
+**Student Name:** SHASHVAT SHYAL
 
-## Lifecycle Stages
-1. Data Generation
-2. Data Ingestion
-3. Data Storage
-4. Data Transformation
-5. Data Serving
+**Enrollment Number:** 24DIT068
 
-## Tools Used
-- Draw.io
-- Git
-- GitHub
-- Visual Studio Code
+This repository contains all Data Engineering laboratory practicals.
 
-## Repository Structure
-- Architecture/
-- Dataset/
-- Images/
-- README.md
-- Manifesto.md
+## Practical List
 
-## Learning Outcome
-Understand how data moves through enterprise systems while maintaining security, observability, and privacy.
+- Practical 1 – Enterprise E-Commerce Data Engineering Lifecycle
+- Practical 2
+- Practical 3
+- Practical 4
+- Practical 5
+- Practical 6
+- Practical 7
+- Practical 8
+- Practical 9
+- Practical 10
+- Practical 11
